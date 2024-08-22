@@ -31,55 +31,55 @@ Key deliverables or outputs of the project.
 
 7. Stakeholders
 List all key stakeholders involved in the project, including their roles and responsibilities.
-	•	Stakeholder 1: Isaiah 
-	•	Stakeholder 2: [Name, Role, Responsibilities]
-	•	Stakeholder 3: [Name, Role, Responsibilities]
+	•	Stakeholder 1: Isaiah Developer, Backend and Database admin 
+	•	Stakeholder 2: Collin PM, Organizing our project task
+	•	Stakeholder 3: Jarius UX/UI Dev, How the site looks and feels
+	•	Stakeholder 3: Arsheen DevOps, Pushing updates to the site 
 
-8. Project Requirements
+9. Project Requirements
 High-level requirements that the project must meet.
 	•	Requirement 1: Personalized Feed
-	•	Requirement 2: [Describe the second requirement]
-	•	Requirement 3: [Describe any additional requirements]
+	•	Requirement 2: Simple UI
+	•	Requirement 3: Privacy features
 
-9. Assumptions
+10. Assumptions
 Assumptions that the project is based upon.
-	•	Assumption 1: [Describe the first assumption]
-	•	Assumption 2: [Describe the second assumption]
-	•	Assumption 3: [Describe any additional assumptions]
+	•	Assumption 1: Students have trouble finding information on camps
+	•	Assumption 2: Students are looking for community
+	•	Assumption 3: Students are looking for a centralized place to find events and information
 
-10. Constraints
+11. Constraints
 Limitations or constraints that may affect the project.
-	•	Constraint 1: [Describe the first constraint]
-	•	Constraint 2: [Describe the second constraint]
-	•	Constraint 3: [Describe any additional constraints]
+	•	Constraint 1: Linking schools on to the app (location, and existing events) 
+	•	Constraint 2: Developing an algorithm to push unique content
+	•	Constraint 3: Creating a simple but colorful app 
 
-11. Risks
+12. Risks
 Potential risks and their impact on the project.
-	•	Risk 1: [Describe the risk and its potential impact]
-	•	Risk 2: [Describe the risk and its potential impact]
-	•	Risk 3: [Describe any additional risks]
-
-12. Milestones and Timeline
+	•	Risk 1: If information is not stored securely, there could be data leaks
+	•	Risk 2: Universities could make existing apps
+	•	Risk 3: The time we have to make the app could hinder the creativity of the app 
+13. Milestones and Timeline
 Key milestones and the project timeline.
-	•	Milestone 1: [Describe the milestone, Date]
-	•	Milestone 2: [Describe the milestone, Date]
-	•	Milestone 3: [Describe any additional milestones, Date]
+	•	Milestone 1: Finish app skeleton (UI) September 20
+	•	Milestone 2: Complete functionality as a Social media app (Posts, Create groups, connect to Uni) October 20
+	•	Milestone 3: Ensure that app can be deployed and updated and move onto user UAT November 20 
 
-13. Budget
+14. Budget
 High-level budget estimation for the project.
-	•	Budget Item 1: [Describe item and estimated cost]
-	•	Budget Item 2: [Describe item and estimated cost]
-	•	Budget Item 3: [Describe any additional budget items]
+	•	Budget Item 1: AWS Credits $20,000 (For using RDS machines)
+	•	Budget Item 2: AWS Credits $20,000 (For using EC2 machines to run the site (or use docker on the machines to deploy))
+	•	Budget Item 3: Labor cost $100,000 
 
-14. Approval and Authority
+15. Approval and Authority
 Signatures and approval to authorize the project.
-	•	Project Sponsor: [Name, Title, Signature, Date]
-	•	Project Manager: [Name, Title, Signature, Date]
-	•	Other Approvers: [Names, Titles, Signatures, Dates]
+	•	Project Sponsor: Isaiah CTO, IJ , 8/22/2024
+	•	Project Manager: Jarius CFO, J,8/22/2024
+	•	Other Approvers: Arsheen CEO, A, 8/22/2024
 
-15. Contact Information
+16. Contact Information
 Contact details for key project team members.
-	•	Project Manager: [Name, Email, Phone]
-	•	Technical Lead: [Name, Email, Phone]
-	•	Business Analyst: [Name, Email, Phone]
+	•	Project Manager: Collin, collin@gmail.com, 12387438
+	•	Technical Lead: Arsheen, arsheen@gmail.com, 4312353
+	•	Business Analyst: Jarius, jarius@gmail.com, 12312412
 
