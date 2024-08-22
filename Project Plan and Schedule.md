@@ -2,25 +2,25 @@
 Project Plan and Schedule
 
 1. Project Overview
-	•	Project Title: [Title of the project]
-	•	Project Manager: [Name]
-	•	Project Sponsor: [Name]
-	•	Start Date: [Start Date]
-	•	End Date: [End Date]
-	•	Version: [Version Number/Date] Ex. 1.0/August 19, 2024
+	•	Project Title: MyUni
+	•	Project Manager: Collin 
+	•	Project Sponsor: Arsheen
+	•	Start Date: 8/23/2024
+	•	End Date: 11/20/2024
+	•	Version: 1.0/August 23, 2024
 
 2. Project Objectives
 Clear and specific objectives of the project.
-	•	Objective 1: [Objective Description]
-	•	Objective 2: [Objective Description]
-	•	Objective 3: [Objective Description]
+	•	Objective 1: Have an app that has a simple design and feel
+	•	Objective 2: Allow for students to view events and groups/clubs at their school
+	•	Objective 3: Have an algorithm that takes in the user's preferences to create their feed
 
 3. Scope
 Description of what the project will deliver and its boundaries.
 	•	In Scope:
-	•	[Scope Description]
+	•	The app will be a social media-like app, allowing students to connect with other students, groups and communities.
 	•	Out of Scope:
-	•	[Scope Description]
+	•	Allow for the student to change their school based on their geolocation
 
 4. Key Deliverables
 List of key deliverables and their descriptions.
