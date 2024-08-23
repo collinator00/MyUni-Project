@@ -45,82 +45,84 @@ Status
 Dependencies
 1. Planning
 Develop Project Charter
-[Jarius]
-   [8/20/24]
-   [8/30/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 
 Conduct Feasibility Study
-[Collin]
-[8/20/24]
-[8/27/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 2. Requirements Analysis
 Gather Requirements
-[Arsheen]
-[8/20/24]
-[8/26/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 
 Document Requirements
-[Isaiah]
-[8/20/24]
-[8/23/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 3. Design
 High-Level Design
-[Jarius]
-[9/1/24]
-[9/8/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 
 Detailed Design
-[Arsheen]
-[9/9/24]
-[9/15/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 4. Development
 Code Development
-[Jarius]
-[9/21/24]
-[9/26/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 
 Unit Testing
-[Collin]
-[10/15/24]
-[10/25/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 5. Testing
 System Testing
-[Collin]
-[10/17/24]
-[10/20/24]
-[Pending]
+[Name]
+[Start Date]
+[End Date]
+[Status]
 [Dependencies]
 
 User Acceptance Testing (UAT)
-Collin
-TBD
+[Name]
+[Start Date]
+[End Date]
 [Status]
 [Dependencies]
 6. Deployment
 Deployment Planning
-Arsheen
-Date TBD
+[Name]
+[Start Date]
+[End Date]
 [Status]
 [Dependencies]
 
 System Deployment
-Jarius
+[Name]
 [Start Date]
 [End Date]
 [Status]
@@ -142,9 +144,9 @@ Bug Fixes and Updates
 
 7. Resource Plan
 Details on resources required, including personnel and equipment.
-	•	Resource 1: [Engineering tools and devices, 4, Collin
-	•	Resource 2: Cloud tools, 1, Arsheen
-	•	Resource 3: Database storage, 1, Isaiah
+	•	Resource 1: [Description, Quantity, Responsible Person]
+	•	Resource 2: [Description, Quantity, Responsible Person]
+	•	Resource 3: [Description, Quantity, Responsible Person]
 
 8. Budget Estimate
 High-level budget breakdown.
@@ -152,38 +154,39 @@ Budget Item
 Description
 Estimated Cost
 Development
-[Description]
-[Cost]
+[Software setup including frontend (UI/Ux systems) and backend (Database, APIs, authentication)]
+[$3000]
 Testing
-[Description]
-[Cost]
+[Unit testing, Integration testing)]
+[$500]
 Deployment
-[Description]
-[Cost]
+[Cloud Hosting, Domain registration]
+[$500]
 Training
-[Description]
-[Cost]
+[employment, IT support]
+[$10,000]
 Miscellaneous
-[Description]
-[Cost]
+[ongoing bug fixes, version updates, maintenance]
+[$1000]
 Total Estimated Cost
-
+[$15000]
+[Cost]
 
 9. Risk Management
 Identification of potential risks and mitigation strategies.
-	•	Risk 1: [Risk Description, Impact, Mitigation Strategy]
-	•	Risk 2: [Risk Description, Impact, Mitigation Strategy]
-	•	Risk 3: [Risk Description, Impact, Mitigation Strategy]
+	•	Risk 1: [Data Breaches, Unauthorized access to user data impacting legal, financial, and reputational damage, strong encryption for data storage and transmission, regular updates and updating security features]
+	•	Risk 2: [Scalability Issues, As the number of users increases, the application can slow down, utilize cloud auto-scaling features]
+	•	Risk 3: [Users Security, Other users could misuse the application and use offensive language, have regular checks to make sure that none of the users of using language/sentence categorized as offensive language]
 
 10. Communication Plan
 How project information will be communicated to stakeholders.
-	•	Communication Type: Messages, Collin
-	•	Reporting Format: Weekly document updates, Arsheen
-	•	Meeting Schedule: Every MWF, Project members
+	•	Communication Type: [Email, Weekly, Project Team and Management]
+	•	Reporting Format: [Presentaion and Email, Arsheen]
+	•	Meeting Schedule: [Every Wednesday at 12 pm, Shonto groups and Project Team]
 
 11. Approval
 Sign-off by key stakeholders.
-	•	Project Manager: Isaiah , I 8/23/2024
-	•	Project Sponsor: Arsheen A, 8/23/2024
-	•	Other Approvers: Jarius J, 8/23/2024
+	•	Project Manager: [Collin, collin, 08/23/2024]
+	•	Project Sponsor: [Izuku Miya, Miya, 08/23/2024]
+	•	Other Approvers: [Shonto, shonto groups CEO, shonto, 08/23/2024]
 
