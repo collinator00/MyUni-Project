@@ -108,21 +108,19 @@ System Testing
 [Dependencies]
 
 User Acceptance Testing (UAT)
-[Name]
-[Start Date]
-[End Date]
+Collin
+TBD
 [Status]
 [Dependencies]
 6. Deployment
 Deployment Planning
-[Name]
-[Start Date]
-[End Date]
+Arsheen
+Date TBD
 [Status]
 [Dependencies]
 
 System Deployment
-[Name]
+Jarius
 [Start Date]
 [End Date]
 [Status]
