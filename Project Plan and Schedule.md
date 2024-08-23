@@ -45,66 +45,66 @@ Status
 Dependencies
 1. Planning
 Develop Project Charter
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Jarius]
+   [8/20/24]
+   [8/30/24]
+[Pending]
 [Dependencies]
 
 Conduct Feasibility Study
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Collin]
+[8/20/24]
+[8/27/24]
+[Pending]
 [Dependencies]
 2. Requirements Analysis
 Gather Requirements
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Arsheen]
+[8/20/24]
+[8/26/24]
+[Pending]
 [Dependencies]
 
 Document Requirements
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Isaiah]
+[8/20/24]
+[8/23/24]
+[Pending]
 [Dependencies]
 3. Design
 High-Level Design
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Jarius]
+[9/1/24]
+[9/8/24]
+[Pending]
 [Dependencies]
 
 Detailed Design
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Arsheen]
+[9/9/24]
+[9/15/24]
+[Pending]
 [Dependencies]
 4. Development
 Code Development
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Jarius]
+[9/21/24]
+[9/26/24]
+[Pending]
 [Dependencies]
 
 Unit Testing
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Collin]
+[10/15/24]
+[10/25/24]
+[Pending]
 [Dependencies]
 5. Testing
 System Testing
-[Name]
-[Start Date]
-[End Date]
-[Status]
+[Collin]
+[10/17/24]
+[10/20/24]
+[Pending]
 [Dependencies]
 
 User Acceptance Testing (UAT)
@@ -154,22 +154,21 @@ Budget Item
 Description
 Estimated Cost
 Development
-[Software setup including frontend (UI/Ux systems) and backend (Database, APIs, authentication)]
-[$3000]
+[Description]
+[Cost]
 Testing
-[Unit testing, Integration testing)]
-[$500]
+[Description]
+[Cost]
 Deployment
-[Cloud Hosting, Domain registration]
-[$500]
+[Description]
+[Cost]
 Training
-[employment, IT support]
-[$10,000]
+[Description]
+[Cost]
 Miscellaneous
-[ongoing bug fixes, version updates, maintenance]
-[$1000]
+[Description]
+[Cost]
 Total Estimated Cost
-[$15000]
 
 
 9. Risk Management
