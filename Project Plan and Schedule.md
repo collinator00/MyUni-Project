@@ -144,9 +144,9 @@ Bug Fixes and Updates
 
 7. Resource Plan
 Details on resources required, including personnel and equipment.
-	•	Resource 1: [Description, Quantity, Responsible Person]
-	•	Resource 2: [Description, Quantity, Responsible Person]
-	•	Resource 3: [Description, Quantity, Responsible Person]
+	•	Resource 1: [Engineering tools and devices, 4, Collin
+	•	Resource 2: Cloud tools, 1, Arsheen
+	•	Resource 3: Database storage, 1, Isaiah
 
 8. Budget Estimate
 High-level budget breakdown.
@@ -170,7 +170,7 @@ Miscellaneous
 [$1000]
 Total Estimated Cost
 [$15000]
-[Cost]
+
 
 9. Risk Management
 Identification of potential risks and mitigation strategies.
@@ -180,13 +180,13 @@ Identification of potential risks and mitigation strategies.
 
 10. Communication Plan
 How project information will be communicated to stakeholders.
-	•	Communication Type: [Type, Frequency, Audience]
-	•	Reporting Format: [Format, Responsible Person]
-	•	Meeting Schedule: [Schedule, Participants]
+	•	Communication Type: Messages, Collin
+	•	Reporting Format: Weekly document updates, Arsheen
+	•	Meeting Schedule: Every MWF, Project members
 
 11. Approval
 Sign-off by key stakeholders.
-	•	Project Manager: [Name, Signature, Date]
-	•	Project Sponsor: [Name, Signature, Date]
-	•	Other Approvers: [Names, Titles, Signatures, Dates]
+	•	Project Manager: Isaiah , I 8/23/2024
+	•	Project Sponsor: Arsheen A, 8/23/2024
+	•	Other Approvers: Jarius J, 8/23/2024
 
