@@ -12,21 +12,21 @@ Project Plan and Schedule
 2. Project Objectives
 Clear and specific objectives of the project.
 	•	Objective 1: Have an app that has a simple design and feel
-	•	Objective 2: Allow students to view events and groups/clubs at their school
+	•	Objective 2: Allow for students to view events and groups/clubs at their school
 	•	Objective 3: Have an algorithm that takes in the user's preferences to create their feed
 
 3. Scope
 Description of what the project will deliver and its boundaries.
 	•	In Scope:
-	•	The app will be social media-like, allowing students to connect with other students, groups, and communities.
+	•	The app will be a social media-like app, allowing students to connect with other students, groups and communities.
 	•	Out of Scope:
 	•	Allow for the student to change their school based on their geolocation
 
 4. Key Deliverables
 List of key deliverables and their descriptions.
-	•	Deliverable 1: Ensure user authentication and profiles can be customized. 9/10
-	•	Deliverable 2: Add functionality to create groups and communities 10/10
-	•	Deliverable 3: Ensure that the entire app is UI and UX is smooth 11/10
+	•	Deliverable 1: [Description, Due Date]
+	•	Deliverable 2: [Description, Due Date]
+	•	Deliverable 3: [Description, Due Date]
 
 5. Milestones
 Important milestones and their target dates for when specific features will be done.
@@ -45,11 +45,11 @@ Status
 Dependencies
 1. Planning
 Develop Project Charter
-Collin
-8/19
-8/23
-Completed
-None
+[Name]
+[Start Date]
+[End Date]
+[Status]
+[Dependencies]
 
 Conduct Feasibility Study
 [Name]
@@ -154,22 +154,22 @@ Budget Item
 Description
 Estimated Cost
 Development
-[Description]
-[Cost]
+[Software setup including frontend (UI/Ux systems) and backend (Database, APIs, authentication)]
+[$3000]
 Testing
-[Description]
-[Cost]
+[Unit testing, Integration testing)]
+[$500]
 Deployment
-[Description]
-[Cost]
+[Cloud Hosting, Domain registration]
+[$500]
 Training
-[Description]
-[Cost]
+[employment, IT support]
+[$10,000]
 Miscellaneous
-[Description]
-[Cost]
+[ongoing bug fixes, version updates, maintenance]
+[$1000]
 Total Estimated Cost
-[Total Cost]
+[$15000]
 [Cost]
 
 9. Risk Management
