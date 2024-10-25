@@ -154,39 +154,39 @@ Budget Item
 Description
 Estimated Cost
 Development
-[Description]
-[Cost]
+[Software setup including frontend (UI/Ux systems) and backend (Database, APIs, authentication)]
+[$3000]
 Testing
-[Description]
-[Cost]
+[Unit testing, Integration testing)]
+[$500]
 Deployment
-[Description]
-[Cost]
+[Cloud Hosting, Domain registration]
+[$500]
 Training
-[Description]
-[Cost]
+[employment, IT support]
+[$10,000]
 Miscellaneous
-[Description]
-[Cost]
+[ongoing bug fixes, version updates, maintenance]
+[$1000]
 Total Estimated Cost
-[Total Cost]
+[$15000]
 [Cost]
 
 9. Risk Management
 Identification of potential risks and mitigation strategies.
-	•	Risk 1: [Risk Description, Impact, Mitigation Strategy]
-	•	Risk 2: [Risk Description, Impact, Mitigation Strategy]
-	•	Risk 3: [Risk Description, Impact, Mitigation Strategy]
+	•	Risk 1: [Data Breaches, Unauthorized access to user data impacting legal, financial, and reputational damage, strong encryption for data storage and transmission, regular updates and updating security features]
+	•	Risk 2: [Scalability Issues, As the number of users increases, the application can slow down, utilize cloud auto-scaling features]
+	•	Risk 3: [Users Security, Other users could misuse the application and use offensive language, have regular checks to make sure that none of the users of using language/sentence categorized as offensive language]
 
 10. Communication Plan
 How project information will be communicated to stakeholders.
-	•	Communication Type: [Type, Frequency, Audience]
-	•	Reporting Format: [Format, Responsible Person]
-	•	Meeting Schedule: [Schedule, Participants]
+	•	Communication Type: [Email, Weekly, Project Team and Management]
+	•	Reporting Format: [Presentaion and Email, Arsheen]
+	•	Meeting Schedule: [Every Wednesday at 12 pm, Shonto groups and Project Team]
 
 11. Approval
 Sign-off by key stakeholders.
-	•	Project Manager: [Name, Signature, Date]
-	•	Project Sponsor: [Name, Signature, Date]
-	•	Other Approvers: [Names, Titles, Signatures, Dates]
+	•	Project Manager: [Collin, collin, 08/23/2024]
+	•	Project Sponsor: [Izuku Miya, Miya, 08/23/2024]
+	•	Other Approvers: [Shonto, shonto groups CEO, shonto, 08/23/2024]
 
