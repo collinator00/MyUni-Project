@@ -1,4 +1,4 @@
-package Models;
+package com.myuni.Models;
 
 import javax.persistence.*;
 
