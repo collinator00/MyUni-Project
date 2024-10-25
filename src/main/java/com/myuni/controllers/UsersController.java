@@ -60,4 +60,26 @@ public class UsersController {
         return ResponseEntity.noContent().build();
     }
 
+
+    @PostMapping("/signup")
+    public ResponseEntity<String> signUp(@RequestBody Users user) {
+        try {
+            userService.saveUser(user);
+            return ResponseEntity.status(200).body("Signup successful");
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body("Error Signing Up");
+        }
+    }
+
+    //https://127.0.0.1:9000/api/users/login
+    @PostMapping("/login")
+    public ResponseEntity<String> login(@RequestBody Users user) {
+        Optional<Users> userFound = userService.getUserByEmail(user.getEmail());
+        if (userFound.isPresent() && userFound.get().getPassword().equals(user.getPassword())) {
+            return ResponseEntity.ok("Login successful");
+        }
+        return ResponseEntity.status(401).body("Error Login");
+    }
+
+
 }
